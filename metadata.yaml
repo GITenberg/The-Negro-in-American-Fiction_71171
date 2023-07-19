@@ -1,0 +1,32 @@
+_repo: The-Negro-in-American-Fiction_71171
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Locke, Alain LeRoy
+    gutenberg_agent_id: '56102'
+    url: http://www.gutenberg.org/2009/agents/56102
+creator:
+  author:
+    agent_name: Brown, Sterling Allen
+    gutenberg_agent_id: '56101'
+    url: http://www.gutenberg.org/2009/agents/56101
+description: ''
+gutenberg_issued: '2023-07-12'
+identifiers:
+  gutenberg: '71171'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/uc1.b4376173
+pgterms:marc905: 20220331071721brown
+pgterms:marc906: '1938'
+pgterms:marc907: US
+production_note: Alan, Tim Lindell and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This book was produced from images made available by the HathiTrust
+  Digital Library.)
+publication_note: '  $aUnited States :$bKennikat Press, $c1938, reprint 1968.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Negro in American Fiction
+url: http://www.gutenberg.org/ebooks/71171
