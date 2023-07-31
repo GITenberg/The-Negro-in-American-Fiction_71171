@@ -5,12 +5,17 @@ contributor:
     agent_name: Locke, Alain LeRoy
     gutenberg_agent_id: '56102'
     url: http://www.gutenberg.org/2009/agents/56102
+covers:
+- cover_type: archival
+  image_path: 71171-h/images/cover.jpg
 creator:
   author:
     agent_name: Brown, Sterling Allen
     gutenberg_agent_id: '56101'
     url: http://www.gutenberg.org/2009/agents/56101
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71171#The-Negro-in-American-Fiction
 gutenberg_issued: '2023-07-12'
 identifiers:
   gutenberg: '71171'
